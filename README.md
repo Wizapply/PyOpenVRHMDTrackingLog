@@ -4,3 +4,5 @@
 # Install
 pip install numpy  
 pip install openvr  
+  
+SteamVR  
